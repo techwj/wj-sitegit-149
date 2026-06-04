@@ -1,0 +1,59 @@
+{
+  "siteId": "holiday-floral-arrangement",
+  "generatedAt": "2026-06-04T11:35:56.064391",
+  "categories": [
+    "beginner-holiday-floral-arrangement",
+    "advanced-holiday-floral-arrangement",
+    "tips-holiday-floral-arrangement",
+    "history-holiday-floral-arrangement",
+    "trending-holiday-floral-arrangement",
+    "tutorials-holiday-floral-arrangement"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-holiday-floral-arrangement",
+      "category_name": "Beginner Holiday Floral Arrangement"
+    },
+    {
+      "category_slug": "advanced-holiday-floral-arrangement",
+      "category_name": "Advanced Holiday Floral Arrangement"
+    },
+    {
+      "category_slug": "tips-holiday-floral-arrangement",
+      "category_name": "Holiday Floral Arrangement Tips"
+    },
+    {
+      "category_slug": "history-holiday-floral-arrangement",
+      "category_name": "Holiday Floral Arrangement History"
+    },
+    {
+      "category_slug": "trending-holiday-floral-arrangement",
+      "category_name": "Trending Holiday Floral Arrangement"
+    },
+    {
+      "category_slug": "tutorials-holiday-floral-arrangement",
+      "category_name": "Holiday Floral Arrangement Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "holiday-floral-arrangement",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Holiday Floral Arrangement Central",
+    "articles_per_row": 4
+  }
+}

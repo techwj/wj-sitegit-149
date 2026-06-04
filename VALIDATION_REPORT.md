@@ -1,0 +1,88 @@
+# Validation Report - holiday-floral-arrangement
+
+Generated: 2026-06-04T11:35:56.064146
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Holiday Floral Arrangement
+- ✓ Article word count OK: Beginner Holiday Floral Arrangement: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Holiday Floral Arrangement
+- ✓ Article word count OK: Beginner Holiday Floral Arrangement Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Holiday Floral Arrangement
+- ✓ Article word count OK: Beginner Holiday Floral Arrangement in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Holiday Floral Arrangement
+- ✓ Article word count OK: Common Mistakes in Beginner Holiday Floral Arrangement
+- ✓ Article word count OK: Beginner Holiday Floral Arrangement for Beginners
+- ✓ Article word count OK: Advanced Beginner Holiday Floral Arrangement Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Holiday Floral Arrangement
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Holiday Floral Arrangement
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Holiday Floral Arrangement
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Holiday Floral Arrangement
+- ✓ Article word count OK: Common Mistakes in Advanced Holiday Floral Arrangement
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement for Beginners
+- ✓ Article word count OK: Advanced Advanced Holiday Floral Arrangement Techniques
+- ✓ Article word count OK: The Ultimate Guide to Holiday Floral Arrangement Tips
+- ✓ Article word count OK: Holiday Floral Arrangement Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Holiday Floral Arrangement Tips
+- ✓ Article word count OK: Holiday Floral Arrangement Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Holiday Floral Arrangement Tips
+- ✓ Article word count OK: Holiday Floral Arrangement Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Holiday Floral Arrangement Tips
+- ✓ Article word count OK: Common Mistakes in Holiday Floral Arrangement Tips
+- ✓ Article word count OK: Holiday Floral Arrangement Tips for Beginners
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Holiday Floral Arrangement History
+- ✓ Article word count OK: Holiday Floral Arrangement History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Holiday Floral Arrangement History
+- ✓ Article word count OK: Holiday Floral Arrangement History Tips and Best Practices
+- ✓ Article word count OK: The History of Holiday Floral Arrangement History
+- ✓ Article word count OK: Holiday Floral Arrangement History in 2026: Current Trends
+- ✓ Article word count OK: Future of Holiday Floral Arrangement History
+- ✓ Article word count OK: Common Mistakes in Holiday Floral Arrangement History
+- ✓ Article word count OK: Holiday Floral Arrangement History for Beginners
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Holiday Floral Arrangement
+- ✓ Article word count OK: Trending Holiday Floral Arrangement: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Holiday Floral Arrangement
+- ✓ Article word count OK: Trending Holiday Floral Arrangement Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Holiday Floral Arrangement
+- ✓ Article word count OK: Trending Holiday Floral Arrangement in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Holiday Floral Arrangement
+- ✓ Article word count OK: Common Mistakes in Trending Holiday Floral Arrangement
+- ✓ Article word count OK: Trending Holiday Floral Arrangement for Beginners
+- ✓ Article word count OK: Advanced Trending Holiday Floral Arrangement Techniques
+- ✓ Article word count OK: The Ultimate Guide to Holiday Floral Arrangement Tutorials
+- ✓ Article word count OK: Holiday Floral Arrangement Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Holiday Floral Arrangement Tutorials
+- ✓ Article word count OK: Holiday Floral Arrangement Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Holiday Floral Arrangement Tutorials
+- ✓ Article word count OK: Holiday Floral Arrangement Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Holiday Floral Arrangement Tutorials
+- ✓ Article word count OK: Common Mistakes in Holiday Floral Arrangement Tutorials
+- ✓ Article word count OK: Holiday Floral Arrangement Tutorials for Beginners
+- ✓ Article word count OK: Advanced Holiday Floral Arrangement Tutorials Techniques
+- ✓ Ad configuration validated

@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-holiday-floral-arrangement",
+      "title": "The Ultimate Guide to Beginner Holiday Floral Arrangement",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.987601",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Holiday Floral Arrangement",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-holiday-floral-arrangement-everything-you-need-to-know",
+      "title": "Beginner Holiday Floral Arrangement: Everything You Need to Know",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.987782",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Beginner Holiday Floral Arrangement: Everything You Need to Know",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-holiday-floral-arrangement",
+      "title": "Understanding Beginner Holiday Floral Arrangement",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.987889",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Understanding Beginner Holiday Floral Arrangement",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-holiday-floral-arrangement-tips-and-best-practices",
+      "title": "Beginner Holiday Floral Arrangement Tips and Best Practices",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988051",
+      "image": {
+        "id": "b6934c57fd9717777f60b8eef7c49cb7e3c1194f874a52320e9018e26e441547",
+        "url": "https://picsum.photos/976/445?random=130",
+        "alt": "Featured image for: Beginner Holiday Floral Arrangement Tips and Best Practices",
+        "width": 976,
+        "height": 445
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-holiday-floral-arrangement",
+      "title": "The History of Beginner Holiday Floral Arrangement",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988191",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: The History of Beginner Holiday Floral Arrangement",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-holiday-floral-arrangement-in-2026-current-trends",
+      "title": "Beginner Holiday Floral Arrangement in 2026: Current Trends",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988280",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Beginner Holiday Floral Arrangement in 2026: Current Trends",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-holiday-floral-arrangement",
+      "title": "Future of Beginner Holiday Floral Arrangement",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988383",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Future of Beginner Holiday Floral Arrangement",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-holiday-floral-arrangement",
+      "title": "Common Mistakes in Beginner Holiday Floral Arrangement",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988474",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Common Mistakes in Beginner Holiday Floral Arrangement",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-holiday-floral-arrangement-for-beginners",
+      "title": "Beginner Holiday Floral Arrangement for Beginners",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988578",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Beginner Holiday Floral Arrangement for Beginners",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-holiday-floral-arrangement-techniques",
+      "title": "Advanced Beginner Holiday Floral Arrangement Techniques",
+      "category": "beginner-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.988705",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Advanced Beginner Holiday Floral Arrangement Techniques",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-holiday-floral-arrangement",
+      "title": "The Ultimate Guide to Advanced Holiday Floral Arrangement",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989465",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Holiday Floral Arrangement",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-holiday-floral-arrangement-everything-you-need-to-know",
+      "title": "Advanced Holiday Floral Arrangement: Everything You Need to Know",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989563",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement: Everything You Need to Know",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-holiday-floral-arrangement",
+      "title": "Understanding Advanced Holiday Floral Arrangement",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989677",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Understanding Advanced Holiday Floral Arrangement",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-holiday-floral-arrangement-tips-and-best-practices",
+      "title": "Advanced Holiday Floral Arrangement Tips and Best Practices",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989776",
+      "image": {
+        "id": "b6934c57fd9717777f60b8eef7c49cb7e3c1194f874a52320e9018e26e441547",
+        "url": "https://picsum.photos/976/445?random=130",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement Tips and Best Practices",
+        "width": 976,
+        "height": 445
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-holiday-floral-arrangement",
+      "title": "The History of Advanced Holiday Floral Arrangement",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989867",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: The History of Advanced Holiday Floral Arrangement",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-holiday-floral-arrangement-in-2026-current-trends",
+      "title": "Advanced Holiday Floral Arrangement in 2026: Current Trends",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.989955",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement in 2026: Current Trends",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-holiday-floral-arrangement",
+      "title": "Future of Advanced Holiday Floral Arrangement",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.990091",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Future of Advanced Holiday Floral Arrangement",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-holiday-floral-arrangement",
+      "title": "Common Mistakes in Advanced Holiday Floral Arrangement",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.990178",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Common Mistakes in Advanced Holiday Floral Arrangement",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-holiday-floral-arrangement-for-beginners",
+      "title": "Advanced Holiday Floral Arrangement for Beginners",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.990246",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement for Beginners",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-holiday-floral-arrangement-techniques",
+      "title": "Advanced Advanced Holiday Floral Arrangement Techniques",
+      "category": "advanced-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.991723",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Advanced Advanced Holiday Floral Arrangement Techniques",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-holiday-floral-arrangement-tips",
+      "title": "The Ultimate Guide to Holiday Floral Arrangement Tips",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.993818",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: The Ultimate Guide to Holiday Floral Arrangement Tips",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 38,
+      "slug": "holiday-floral-arrangement-tips-everything-you-need-to-know",
+      "title": "Holiday Floral Arrangement Tips: Everything You Need to Know",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.993889",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Holiday Floral Arrangement Tips: Everything You Need to Know",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-holiday-floral-arrangement-tips",
+      "title": "Understanding Holiday Floral Arrangement Tips",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.993961",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Understanding Holiday Floral Arrangement Tips",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 40,
+      "slug": "holiday-floral-arrangement-tips-tips-and-best-practices",
+      "title": "Holiday Floral Arrangement Tips Tips and Best Practices",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994053",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Holiday Floral Arrangement Tips Tips and Best Practices",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-holiday-floral-arrangement-tips",
+      "title": "The History of Holiday Floral Arrangement Tips",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994139",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: The History of Holiday Floral Arrangement Tips",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 42,
+      "slug": "holiday-floral-arrangement-tips-in-2026-current-trends",
+      "title": "Holiday Floral Arrangement Tips in 2026: Current Trends",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994212",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Holiday Floral Arrangement Tips in 2026: Current Trends",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-holiday-floral-arrangement-tips",
+      "title": "Future of Holiday Floral Arrangement Tips",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994305",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Future of Holiday Floral Arrangement Tips",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-holiday-floral-arrangement-tips",
+      "title": "Common Mistakes in Holiday Floral Arrangement Tips",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994377",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Common Mistakes in Holiday Floral Arrangement Tips",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 45,
+      "slug": "holiday-floral-arrangement-tips-for-beginners",
+      "title": "Holiday Floral Arrangement Tips for Beginners",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994453",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Holiday Floral Arrangement Tips for Beginners",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-holiday-floral-arrangement-tips-techniques",
+      "title": "Advanced Holiday Floral Arrangement Tips Techniques",
+      "category": "tips-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.994551",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement Tips Techniques",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-holiday-floral-arrangement-history",
+      "title": "The Ultimate Guide to Holiday Floral Arrangement History",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995155",
+      "image": {
+        "id": "b6934c57fd9717777f60b8eef7c49cb7e3c1194f874a52320e9018e26e441547",
+        "url": "https://picsum.photos/976/445?random=130",
+        "alt": "Featured image for: The Ultimate Guide to Holiday Floral Arrangement History",
+        "width": 976,
+        "height": 445
+      }
+    },
+    {
+      "id": 56,
+      "slug": "holiday-floral-arrangement-history-everything-you-need-to-know",
+      "title": "Holiday Floral Arrangement History: Everything You Need to Know",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995218",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Holiday Floral Arrangement History: Everything You Need to Know",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-holiday-floral-arrangement-history",
+      "title": "Understanding Holiday Floral Arrangement History",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995294",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Understanding Holiday Floral Arrangement History",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 58,
+      "slug": "holiday-floral-arrangement-history-tips-and-best-practices",
+      "title": "Holiday Floral Arrangement History Tips and Best Practices",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995357",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Holiday Floral Arrangement History Tips and Best Practices",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-holiday-floral-arrangement-history",
+      "title": "The History of Holiday Floral Arrangement History",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995418",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: The History of Holiday Floral Arrangement History",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 60,
+      "slug": "holiday-floral-arrangement-history-in-2026-current-trends",
+      "title": "Holiday Floral Arrangement History in 2026: Current Trends",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995479",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Holiday Floral Arrangement History in 2026: Current Trends",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-holiday-floral-arrangement-history",
+      "title": "Future of Holiday Floral Arrangement History",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995547",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Future of Holiday Floral Arrangement History",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-holiday-floral-arrangement-history",
+      "title": "Common Mistakes in Holiday Floral Arrangement History",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995609",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Common Mistakes in Holiday Floral Arrangement History",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 63,
+      "slug": "holiday-floral-arrangement-history-for-beginners",
+      "title": "Holiday Floral Arrangement History for Beginners",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995729",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Holiday Floral Arrangement History for Beginners",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-holiday-floral-arrangement-history-techniques",
+      "title": "Advanced Holiday Floral Arrangement History Techniques",
+      "category": "history-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.995793",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement History Techniques",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-holiday-floral-arrangement",
+      "title": "The Ultimate Guide to Trending Holiday Floral Arrangement",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996346",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: The Ultimate Guide to Trending Holiday Floral Arrangement",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-holiday-floral-arrangement-everything-you-need-to-know",
+      "title": "Trending Holiday Floral Arrangement: Everything You Need to Know",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996410",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Trending Holiday Floral Arrangement: Everything You Need to Know",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-holiday-floral-arrangement",
+      "title": "Understanding Trending Holiday Floral Arrangement",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996475",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Understanding Trending Holiday Floral Arrangement",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-holiday-floral-arrangement-tips-and-best-practices",
+      "title": "Trending Holiday Floral Arrangement Tips and Best Practices",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996550",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Trending Holiday Floral Arrangement Tips and Best Practices",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-holiday-floral-arrangement",
+      "title": "The History of Trending Holiday Floral Arrangement",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996618",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: The History of Trending Holiday Floral Arrangement",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-holiday-floral-arrangement-in-2026-current-trends",
+      "title": "Trending Holiday Floral Arrangement in 2026: Current Trends",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996830",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Trending Holiday Floral Arrangement in 2026: Current Trends",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-holiday-floral-arrangement",
+      "title": "Future of Trending Holiday Floral Arrangement",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.996933",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Future of Trending Holiday Floral Arrangement",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-holiday-floral-arrangement",
+      "title": "Common Mistakes in Trending Holiday Floral Arrangement",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.997017",
+      "image": {
+        "id": "b6934c57fd9717777f60b8eef7c49cb7e3c1194f874a52320e9018e26e441547",
+        "url": "https://picsum.photos/976/445?random=130",
+        "alt": "Featured image for: Common Mistakes in Trending Holiday Floral Arrangement",
+        "width": 976,
+        "height": 445
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-holiday-floral-arrangement-for-beginners",
+      "title": "Trending Holiday Floral Arrangement for Beginners",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.997111",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Trending Holiday Floral Arrangement for Beginners",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-holiday-floral-arrangement-techniques",
+      "title": "Advanced Trending Holiday Floral Arrangement Techniques",
+      "category": "trending-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.997197",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Advanced Trending Holiday Floral Arrangement Techniques",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-holiday-floral-arrangement-tutorials",
+      "title": "The Ultimate Guide to Holiday Floral Arrangement Tutorials",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.997907",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: The Ultimate Guide to Holiday Floral Arrangement Tutorials",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 92,
+      "slug": "holiday-floral-arrangement-tutorials-everything-you-need-to-know",
+      "title": "Holiday Floral Arrangement Tutorials: Everything You Need to Know",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.997986",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: Holiday Floral Arrangement Tutorials: Everything You Need to Know",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-holiday-floral-arrangement-tutorials",
+      "title": "Understanding Holiday Floral Arrangement Tutorials",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998070",
+      "image": {
+        "id": "b6934c57fd9717777f60b8eef7c49cb7e3c1194f874a52320e9018e26e441547",
+        "url": "https://picsum.photos/976/445?random=130",
+        "alt": "Featured image for: Understanding Holiday Floral Arrangement Tutorials",
+        "width": 976,
+        "height": 445
+      }
+    },
+    {
+      "id": 94,
+      "slug": "holiday-floral-arrangement-tutorials-tips-and-best-practices",
+      "title": "Holiday Floral Arrangement Tutorials Tips and Best Practices",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998149",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Holiday Floral Arrangement Tutorials Tips and Best Practices",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-holiday-floral-arrangement-tutorials",
+      "title": "The History of Holiday Floral Arrangement Tutorials",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998229",
+      "image": {
+        "id": "c5a8d8aa4626a51c23e4eaa2b5cb182a2726abc6d76fe6311dbf731764168acb",
+        "url": "https://picsum.photos/883/481?random=773",
+        "alt": "Featured image for: The History of Holiday Floral Arrangement Tutorials",
+        "width": 883,
+        "height": 481
+      }
+    },
+    {
+      "id": 96,
+      "slug": "holiday-floral-arrangement-tutorials-in-2026-current-trends",
+      "title": "Holiday Floral Arrangement Tutorials in 2026: Current Trends",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998306",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Holiday Floral Arrangement Tutorials in 2026: Current Trends",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-holiday-floral-arrangement-tutorials",
+      "title": "Future of Holiday Floral Arrangement Tutorials",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998385",
+      "image": {
+        "id": "8413c8598d46d51573e1c58023ea87e39911ea7737335aab17aa55c8ac938200",
+        "url": "https://picsum.photos/903/488?random=182",
+        "alt": "Featured image for: Future of Holiday Floral Arrangement Tutorials",
+        "width": 903,
+        "height": 488
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-holiday-floral-arrangement-tutorials",
+      "title": "Common Mistakes in Holiday Floral Arrangement Tutorials",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998461",
+      "image": {
+        "id": "ae9c90ab36b00663146a967359dea77495470dfce43e1d6934931f635ca35637",
+        "url": "https://picsum.photos/1055/570?random=183",
+        "alt": "Featured image for: Common Mistakes in Holiday Floral Arrangement Tutorials",
+        "width": 1055,
+        "height": 570
+      }
+    },
+    {
+      "id": 99,
+      "slug": "holiday-floral-arrangement-tutorials-for-beginners",
+      "title": "Holiday Floral Arrangement Tutorials for Beginners",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998535",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Holiday Floral Arrangement Tutorials for Beginners",
+        "width": 1057,
+        "height": 598
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-holiday-floral-arrangement-tutorials-techniques",
+      "title": "Advanced Holiday Floral Arrangement Tutorials Techniques",
+      "category": "tutorials-holiday-floral-arrangement",
+      "created_at": "2026-06-04T11:35:55.998610",
+      "image": {
+        "id": "8a147ce41c241ea0f43fb211d1ac87d33b2e35357db80f1826a58b108abca4dd",
+        "url": "https://picsum.photos/1057/598?random=97",
+        "alt": "Featured image for: Advanced Holiday Floral Arrangement Tutorials Techniques",
+        "width": 1057,
+        "height": 598
+      }
+    }
+  ],
+  "categories": [
+    "beginner-holiday-floral-arrangement",
+    "advanced-holiday-floral-arrangement",
+    "tips-holiday-floral-arrangement",
+    "history-holiday-floral-arrangement",
+    "trending-holiday-floral-arrangement",
+    "tutorials-holiday-floral-arrangement"
+  ]
+}
